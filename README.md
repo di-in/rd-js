@@ -1,2 +1,2 @@
-# rd-js
+# js-rm
 JavaScript notes/projects
